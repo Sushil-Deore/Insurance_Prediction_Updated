@@ -22,29 +22,29 @@ At each step in both development and deployment parts, logging operation is perf
 So, now we can find the insurance premium quickly by just passing the mentioned details as an input to the web application 😊
 
 ## Web Deployment
-Deployed on web using Heroku (PaaS) url: https://insurancepremiumpred.herokuapp.com/
+Deployed on web using Heroku (PaaS) url: https://insurancepredictionupdate.herokuapp.com/
 
 ## Screenshots
-![UI](https://user-images.githubusercontent.com/69260855/142414181-67630ea9-48db-4a73-92f2-624df0984341.png)
+![update](https://user-images.githubusercontent.com/69260855/143764884-c547e2ef-65fc-4ce0-8d59-c239591ae14a.png)
 
 ## Tools and Technologies used
 
 ![Tools](https://user-images.githubusercontent.com/69260855/142414506-f21e3ea1-5956-418e-903d-9835c32f3708.png)
 
 ## High Level Design: 
-URL: https://drive.google.com/file/d/1ZAUo4g3TwfyOeyUFykpqMeX9jBt8ncve/view?usp=sharing
+URL: https://drive.google.com/file/d/1NRrb62TRa5J0taHxgl1_tv8R1yUPoIf3/view?usp=sharing
 
 ## Low Level Design: 
-URL: https://drive.google.com/file/d/1k71y1neg0DjfPJGub7KRl9NJsltYnYO_/view?usp=sharing
+URL: https://drive.google.com/file/d/1VVuLav95Asem2CfPWqdukmuNBPHJhSXb/view?usp=sharing
 
 ## Architecture: 
-URL: https://drive.google.com/file/d/1rEfdDFm_MEq0oBVvuj5JGaI-kkdy6zIG/view?usp=sharing
+URL: https://drive.google.com/file/d/1u3zpjn5FWf1fcvIg80Q2VAlNDDCZy-8v/view?usp=sharing
 
 ## Detailed Project report: 
-URL: https://drive.google.com/file/d/1JfNJtK5MxruYYZ_2jfrY8SBKtQAxqIME/view?usp=sharing
+URL: https://drive.google.com/file/d/1UW_UFfjXVci2yBn5BRAfZ3aru_AsJ1_5/view?usp=sharing
 
 ## Wireframe document: 
-URL: https://drive.google.com/file/d/1j21TTP3bh5hZZuWBodOAvTIWGWR39aKn/view?usp=sharing
+URL: https://drive.google.com/file/d/1Lj7vO7KuGrZqaIOYPAX_Zwt5IJh3El43/view?usp=sharing
 
 ## Demo video: 
 URL: https://drive.google.com/file/d/1c8dNntxZRUIMCpzDu7zjVHIl5Fb43UTz/view?usp=sharing

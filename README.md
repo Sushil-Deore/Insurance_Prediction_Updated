@@ -22,10 +22,10 @@ At each step in both development and deployment parts, logging operation is perf
 So, now we can find the insurance premium quickly by just passing the mentioned details as an input to the web application 😊
 
 ## Web Deployment
-Deployed on web using Heroku (PaaS) url: https://insurancepremiumpred.herokuapp.com/
+Deployed on web using Heroku (PaaS) url: https://insurancepredictionupdate.herokuapp.com/
 
 ## Screenshots
-![UI](https://user-images.githubusercontent.com/69260855/142414181-67630ea9-48db-4a73-92f2-624df0984341.png)
+![update](https://user-images.githubusercontent.com/69260855/143764884-c547e2ef-65fc-4ce0-8d59-c239591ae14a.png)
 
 ## Tools and Technologies used
 

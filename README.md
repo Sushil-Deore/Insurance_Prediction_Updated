@@ -12,10 +12,10 @@ To give people an estimate of how much they need based on their individual healt
 - the distribution of the target feature, expenses which was in Normal distribution with a very little right skewness.
 - Checked for the presence of outliers in all the columns
 3. Experimenting with various ML algorithms
-- First, tried with Linear regression models, ridge and lasso regression approached. Performance metrics are calculated for all the approaches. The test RMSE score is little bit lesser compared to other approaches. Then, performed a residual analysis and the model satisfied all the assumptions of linear regression.
+- First, tried with Linear regression models and lasso regression approached. Performance metrics are calculated for all the approaches. The test RMSE score is little bit lesser compared to other approaches. Then, performed a residual analysis and the model satisfied all the assumptions of linear regression.
 - Next, tried with various tree based models, performed hyper parameter tuning using the GridSearchCV and found the best hyperparameters for each model. Then, picked the top most features as per the feature importance by an each model. Models, evaluated on both the training and testing data and recorded the performance metrics.
 - Based on the performance metrics of both the linear and the tree based models, XGBoost regressor performed the best, followed by the random forest regressor.
-4.Deployment: Deployed the XGBoost regressor model using Flask, which works in the backend part while for the frontend UI Web page, used HTML5.
+4.Deployment: Deployed the Random forest regressor model using Flask, which works in the backend part while for the frontend UI Web page, used HTML5.
 
 At each step in both development and deployment parts, logging operation is performed which are stored in the Jupyter_Notebook_logs.log and app_deployment_logs.log files respectively
 
@@ -47,7 +47,7 @@ URL: https://drive.google.com/file/d/1UW_UFfjXVci2yBn5BRAfZ3aru_AsJ1_5/view?usp=
 URL: https://drive.google.com/file/d/1Lj7vO7KuGrZqaIOYPAX_Zwt5IJh3El43/view?usp=sharing
 
 ## Demo video: 
-URL: https://drive.google.com/file/d/1c8dNntxZRUIMCpzDu7zjVHIl5Fb43UTz/view?usp=sharing
+URL: https://drive.google.com/file/d/1SsUVpR6vHeQzQUSAtRI7TjD6O3OilJYS/view?usp=sharing
 
 ## Reference:
 - https://scikitlearn.org/stable/modules/generated/sklearn.linear_model.LassoCV.html
